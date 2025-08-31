@@ -83,7 +83,6 @@ Want to feature your own unblocked game for the 2025–2026 season? Open a PR or
 
 This repository is open source under the MIT License.
 
----
 
-Would you like me to make this article **short and punchy (like a classic GitHub README)**, or more like a **long-form blog-style article** that you can also cross-post elsewhere?
+
 
